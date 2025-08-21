@@ -19,8 +19,10 @@
 | 2. | Windows 64 bit | [costerminal-64-bit.exe](https://github.com/CusMeDroid/costerminal/archive/refs/heads/main.zip) |
 
 # Jalankan
-> Notifikasi antivirus tutp saja tekan simbol x, buat pengecualian, atau matikan antivirus.
-> Ekstrak file di folder c/d/e bebas, dan jangan pisahkan costerminal.exe dari folder buat pintasan atau shortchut saja.
+```
+Notifikasi antivirus tutup saja/tekan simbol x, buat pengecualian, atau matikan antivirus.
+Ekstrak file di folder c/d/e bebas, dan jangan pisahkan costerminal.exe dari folder buat pintasan atau shortchut saja.
+```
 
 # Aplikasi
 Dibawah ini merupakan tabel aplikasi yang dapat di perintah di COS Terminal.
