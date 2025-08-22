@@ -24,6 +24,9 @@ Notifikasi antivirus tutup saja/tekan simbol x, buat pengecualian, atau matikan 
 Ekstrak file di folder c/d/e bebas, dan jangan pisahkan costerminal.exe dari folder buat pintasan atau shortchut saja.
 ```
 
+# Diagram
+Agar dapat berjalan dengan sesuai yang diharapkan silahkan lihat diagram kami disini => [dir/usecase](https://cusmedroid.github.io/costerminal/usecase/).
+
 # Aplikasi
 Dibawah ini merupakan tabel aplikasi yang dapat di perintah di COS Terminal.
 
