@@ -36,7 +36,7 @@ Dibawah ini merupakan tabel aplikasi yang dapat di perintah di COS Terminal.
 | 2. | iyonie AI | Percakapan teks menggunakan AI. prompt. iyonie, setel api terlebih dahulu *Hubungi Developer*. |
 | 3. | Joystick | Mengubah HP menjadi stik PS komputer. prompt. joystick, tunggu hingga server aktif lalu buka 192.1xx.0xx.xxx:8x/joystick di hp anda. |
 | 4. | Mouse | Mengubah HP menjadi mouse kompuser. prompt. mouse, tunggu hingga server aktif lalu buka 192.1xx.0xx.xxx:8x/mouse di hp anda. |
-| 5. | Handtick | Kamera langsung deteksi telapak tangan untuk kegunaan kursor. baca handtick_tool.txt download dan taruh filenya di dist ya. |
+| 5. | Handtick | Kamera langsung deteksi telapak tangan untuk kegunaan kursor. baca handtick_tool.txt lalu download file, rename jadi handtick_tool.exe dan taruh filenya di dist. |
 
 # Kontak
 1. [Suryo Dwijayanto](mailto://iyortml@gmail.com)
