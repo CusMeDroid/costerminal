@@ -12,6 +12,9 @@
 # Logo
 ![COS Terminal](favicon.ico)
 
+# Tangkapan Layar
+[<img alt="COS Terminal Analisa Website" title="COS Terminal Analisa Website" width="30%" src="https://raw.githubusercontent.com/CusMeDroid/costerminal/refs/heads/main/img/ss_01.jpg" />](https://raw.githubusercontent.com/CusMeDroid/costerminal/refs/heads/main/img/ss_01.jpg) [<img alt="COS Terminal IyoNie AI" title="COS Terminal IyoNie AI" width="30%" src="https://raw.githubusercontent.com/CusMeDroid/costerminal/refs/heads/main/img/ss_02.jpg" />](https://raw.githubusercontent.com/CusMeDroid/costerminal/refs/heads/main/img/ss_02.jpg) [<img alt="COS Terminal Mouse" title="COS Terminal Mouse" width="30%" src="https://raw.githubusercontent.com/CusMeDroid/costerminal/refs/heads/main/img/ss_03.jpg" />](https://raw.githubusercontent.com/CusMeDroid/costerminal/refs/heads/main/img/ss_03.jpg) [<img alt="COS Terminal Joystick" title="COS Terminal Joystick" width="30%" src="https://raw.githubusercontent.com/CusMeDroid/costerminal/refs/heads/main/img/ss_04.jpg" />](https://raw.githubusercontent.com/CusMeDroid/costerminal/refs/heads/main/img/ss_04.jpg) [<img alt="COS Terminal Handtick" title="COS Terminal Handtick" width="30%" src="https://raw.githubusercontent.com/CusMeDroid/costerminal/refs/heads/main/img/ss_05.jpg" />](https://raw.githubusercontent.com/CusMeDroid/costerminal/refs/heads/main/img/ss_05.jpg)
+
 # COS Terminal EXE
 | No | OS | File Eks |
 |----|------|--------|
