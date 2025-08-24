@@ -7,7 +7,7 @@
 	!  $$$$$$/!  $$$$$$/ /$$$$$$$/! $$ \/  ! $$!  $$$$$$$      !  $$$$$$/!  $$$$$$/
 	 \______/  \______/ !_______/ !__/     !__/ \_______/       \______/  \______/ 
 
-  v1.0.1 by Suryo Dwijayanto
+  v1.0.2 by Suryo Dwijayanto
 
 # Logo
 ![COS Terminal](https://raw.githubusercontent.com/CusMeDroid/costerminal/refs/heads/main/favicon.ico)
@@ -41,7 +41,7 @@ Dibawah ini merupakan tabel aplikasi yang dapat di perintah di COS Terminal.
 | 1. | Web Analyzer | Menganalisis konten web. prompt. get -a cusme-os.web.app, sesuaikan saja domain-nya. |
 | 2. | iyonie AI | Percakapan teks menggunakan AI. prompt. iyonie, setel api terlebih dahulu *Hubungi Developer*. |
 | 3. | Joystick | Mengubah HP menjadi stik PS komputer. prompt. joystick, tunggu hingga server aktif lalu buka 192.1xx.0xx.xxx:8x/joystick di hp anda. |
-| 4. | Mouse | Mengubah HP menjadi mouse kompuser. prompt. mouse, tunggu hingga server aktif lalu buka 192.1xx.0xx.xxx:8x/mouse di hp anda. |
+| 4. | Mouse | Mengubah HP menjadi mouse komputer. prompt. mouse, tunggu hingga server aktif lalu buka 192.1xx.0xx.xxx:8x/mouse di hp anda. |
 | 5. | Handtick | Kamera langsung deteksi telapak tangan untuk kegunaan kursor. baca handtick_tool.txt lalu download file, rename jadi handtick_tool.exe dan taruh filenya di dist. |
 
 # Kontak
