@@ -19,7 +19,7 @@ COS Terminal adalah sebuah perintah dengan tampilan terminal/Command Prompt yang
 [<img alt="COS Terminal Analisa Website" title="COS Terminal Analisa Website" width="30%" src="https://raw.githubusercontent.com/CusMeDroid/costerminal/refs/heads/main/img/ss_01.jpg" />](https://raw.githubusercontent.com/CusMeDroid/costerminal/refs/heads/main/img/ss_01.jpg) [<img alt="COS Terminal IyoNie AI" title="COS Terminal IyoNie AI" width="30%" src="https://raw.githubusercontent.com/CusMeDroid/costerminal/refs/heads/main/img/ss_02.jpg" />](https://raw.githubusercontent.com/CusMeDroid/costerminal/refs/heads/main/img/ss_02.jpg) [<img alt="COS Terminal Mouse" title="COS Terminal Mouse" width="30%" src="https://raw.githubusercontent.com/CusMeDroid/costerminal/refs/heads/main/img/ss_03.jpg" />](https://raw.githubusercontent.com/CusMeDroid/costerminal/refs/heads/main/img/ss_03.jpg) [<img alt="COS Terminal Joystick" title="COS Terminal Joystick" width="30%" src="https://raw.githubusercontent.com/CusMeDroid/costerminal/refs/heads/main/img/ss_04.jpg" />](https://raw.githubusercontent.com/CusMeDroid/costerminal/refs/heads/main/img/ss_04.jpg) [<img alt="COS Terminal Handtick" title="COS Terminal Handtick" width="30%" src="https://raw.githubusercontent.com/CusMeDroid/costerminal/refs/heads/main/img/ss_05.jpg" />](https://raw.githubusercontent.com/CusMeDroid/costerminal/refs/heads/main/img/ss_05.jpg)
 
 # COS Terminal EXE
-[Windows OS](https://drive.google.com/file/d/1ZzguesyeqCgrO7uftg8r06mInNzyzCHR/view?usp=sharing)
+[Windows OS](https://drive.google.com/drive/folders/1cWi57G_gSHyU3Co3R-VunWwRRZvMdGhn?usp=sharing)
 
 # Jalankan
 ```
