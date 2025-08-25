@@ -7,7 +7,7 @@
 	!  $$$$$$/!  $$$$$$/ /$$$$$$$/! $$ \/  ! $$!  $$$$$$$      !  $$$$$$/!  $$$$$$/
 	 \______/  \______/ !_______/ !__/     !__/ \_______/       \______/  \______/ 
 
-  v1.0.2 by Suryo Dwijayanto
+  v1.0.3 by Suryo Dwijayanto
 
 # Logo
 ![COS Terminal](https://raw.githubusercontent.com/CusMeDroid/costerminal/refs/heads/main/favicon.ico)
@@ -19,10 +19,7 @@ COS Terminal adalah sebuah perintah dengan tampilan terminal/Command Prompt yang
 [<img alt="COS Terminal Analisa Website" title="COS Terminal Analisa Website" width="30%" src="https://raw.githubusercontent.com/CusMeDroid/costerminal/refs/heads/main/img/ss_01.jpg" />](https://raw.githubusercontent.com/CusMeDroid/costerminal/refs/heads/main/img/ss_01.jpg) [<img alt="COS Terminal IyoNie AI" title="COS Terminal IyoNie AI" width="30%" src="https://raw.githubusercontent.com/CusMeDroid/costerminal/refs/heads/main/img/ss_02.jpg" />](https://raw.githubusercontent.com/CusMeDroid/costerminal/refs/heads/main/img/ss_02.jpg) [<img alt="COS Terminal Mouse" title="COS Terminal Mouse" width="30%" src="https://raw.githubusercontent.com/CusMeDroid/costerminal/refs/heads/main/img/ss_03.jpg" />](https://raw.githubusercontent.com/CusMeDroid/costerminal/refs/heads/main/img/ss_03.jpg) [<img alt="COS Terminal Joystick" title="COS Terminal Joystick" width="30%" src="https://raw.githubusercontent.com/CusMeDroid/costerminal/refs/heads/main/img/ss_04.jpg" />](https://raw.githubusercontent.com/CusMeDroid/costerminal/refs/heads/main/img/ss_04.jpg) [<img alt="COS Terminal Handtick" title="COS Terminal Handtick" width="30%" src="https://raw.githubusercontent.com/CusMeDroid/costerminal/refs/heads/main/img/ss_05.jpg" />](https://raw.githubusercontent.com/CusMeDroid/costerminal/refs/heads/main/img/ss_05.jpg)
 
 # COS Terminal EXE
-| No | OS | File Eks |
-|----|------|--------|
-| 1. | Windows 32 bit | [costerminal-32-bit.exe](https://github.com/CusMeDroid/costerminal/archive/refs/heads/main.zip) |
-| 2. | Windows 64 bit | [costerminal-64-bit.exe](https://github.com/CusMeDroid/costerminal/archive/refs/heads/main.zip) |
+[Windows OS](https://drive.google.com/file/d/1ZzguesyeqCgrO7uftg8r06mInNzyzCHR/view?usp=sharing)
 
 # Jalankan
 ```
@@ -38,7 +35,7 @@ Dibawah ini merupakan tabel aplikasi yang dapat di perintah di COS Terminal.
 
 | No | Nama | Fungsi |
 |----|------|--------|
-| 1. | Web Analyzer | Menganalisis konten web. prompt. get -a cusme-os.web.app, sesuaikan saja domain-nya. |
+| 1. | Analyzer | Menganalisis konten web. prompt. get -a cusme-os.web.app, sesuaikan saja domain-nya. Menganalisis Coin Dezil AI get -l, get -c (coinid) perintah tambahan |
 | 2. | iyonie AI | Percakapan teks menggunakan AI. prompt. iyonie, setel api terlebih dahulu *Hubungi Developer*. |
 | 3. | Joystick | Mengubah HP menjadi stik PS komputer. prompt. joystick, tunggu hingga server aktif lalu buka 192.1xx.0xx.xxx:8x/joystick di hp anda. |
 | 4. | Mouse | Mengubah HP menjadi mouse komputer. prompt. mouse, tunggu hingga server aktif lalu buka 192.1xx.0xx.xxx:8x/mouse di hp anda. |
