@@ -1,2 +1,0 @@
-Download file exe disini : https://drive.google.com/file/d/1QT76dzCCeK2fmIShW3Ihn5XoEp6lc0Ps/view?usp=sharing
-Ekstrak di foldor ini ya agar COS Terminal dapat mendeteksi.
